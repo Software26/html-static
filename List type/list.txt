@@ -1,0 +1,18 @@
+existen 3 tipos de listas que son :
+
+1. Numericas
+2. Viñetas
+3. Definicion 
+
+1. Las numericas se enumeran
+    <ol>
+        <li>elemento 1</li>
+        <li>elemento 2</li>
+        <li>elemento 3 </li>
+    </ol>
+
+------------Salida-------------
+    Lista numerica
+Elemento 1
+Elemento 2
+Elemento 3
